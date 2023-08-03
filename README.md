@@ -38,7 +38,7 @@ Serer - This language lets us test ɓ ƭ ɗ. Overall word length is a bit shorte
 
 Anii - This language is helpful for testing ɩ ǝ ʊ ɖ ŋ ɔ ɛ w c - a lot. The high frequency of the use of ʊ is especially notable.
 
-Pugli - This language lets us test ɩ ɛ ʋ ɔ ŋ ɓ ɲ ƴ ʊ ɗ. The very high frequency of use of the letters ɩ ɛ ʋ ɔ creates a particularly novel texture. We also see Ƴ Ɩ Ɲ Ɓ Ʋ. Frequently using diacritics and stacked diacritics such as ɛ̃̀ makes it almost Czech-like.
+Puguli - This language lets us test ɩ ɛ ʋ ɔ ŋ ɓ ɲ ƴ ʊ ɗ. The very high frequency of use of the letters ɩ ɛ ʋ ɔ creates a particularly novel texture. We also see Ƴ Ɩ Ɲ Ɓ Ʋ. Frequently using diacritics and stacked diacritics such as ɛ̃̀ makes it almost Czech-like.
 
 Xhosa - This language has some camel case words like Ndonga, but the main feature is the high frequency of the diagonal letters w y z x k, which may reveal weaknesses in the spacing of these letters or their design.
 
