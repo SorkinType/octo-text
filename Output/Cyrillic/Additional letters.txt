@@ -1,0 +1,3 @@
+Nmod amod dothorizontalbarmod dotslashmod dotverticalbarmod eOpenmod emod istrokemod lowerrightcorneranglemod oOpenmod omod thetamod ubarmod umod vmod zmod istrokemod.dotless 
+
+clickalveolar clickdental clicklateral clickretroflex glottalstop hmod imod nmod wmod ymod imod.dotless ordfeminine ordmasculine Delta Lambda Mu Pi Omega delta lambda mu pi chi omega 
