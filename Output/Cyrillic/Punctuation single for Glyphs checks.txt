@@ -1,0 +1,12 @@
+Punctuation single glyphs set apart for glyph checks
+
+· ; ⟨ ⟩  . , : ; … ! ¡ ? ¿ ‽ ⸘ 
+& § # ¶ † ‡ @ % ‰ ~
+· • * ⁂ 
+| ¦ ‖ ⁊ ‼ ‧ # // \
+- ­ – — ⸗ ‒ ― ‐ _ 
+() {} [] ‚ „ “ ” ‘  ’ ‛ « » ‹ › 
+° ^ ª º " ' ′ ″ 
+
+less used:
+‼︎ ⁇ ⁈ ⁉︎ ❛ ❜ ❝ ❞ ❢ ❣ ❡ ‱
