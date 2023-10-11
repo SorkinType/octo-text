@@ -1,0 +1,29 @@
+# Prompt the user to enter the target file name
+filename = input("Please enter the target file name: ")
+
+try:
+    # Read the contents of the target file
+    with open(filename, 'r') as file:
+        lines = file.readlines()
+
+    # Process the lines and create a new list with the modified content
+    new_lines = []
+    for line in lines:
+        modified_line = ""
+        for letter in line:
+            if letter.isalpha():
+                modified_line += "[" + letter + "+]"
+            else:
+                modified_line += letter
+        new_lines.append(modified_line)
+        new_lines.append("[+" + letter + "]")
+
+    # Write the modified content back to the file
+    with open(filename, 'w') as file:
+        file.writelines(new_lines)
+
+    print("File has been successfully modified.")
+except FileNotFoundError:
+    print("The specified file was not found.")
+except Exception as e:
+    print(f"An error occurred: {e}")
