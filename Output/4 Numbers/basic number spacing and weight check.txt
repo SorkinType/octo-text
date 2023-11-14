@@ -1,11 +1,21 @@
 This can be used to check all styles of numbers by applying OpenType features including small numbers 
 
-Check next to Zero for spacing
+check zero with o and O and itsef. 
+Zero should usually be looser than O or 0
+Zero should usually be evenly spaced between o or O 
+
+
+o0oo0o0o0o0o0o0o0o0o0o0
+O0O0O0O0O0O0O0O0O0O0O0O
+00000000000000000000000
+
+
+Check numbers next to zero for basic spacing
 
 000102030405060708090
 
 
-Check if anything makes a strong diagonal stripe that is too light or too dark
+Check if any number makes a strong diagonal stripe that is too light or too dark
 
 123456789012345678
 901234567890123456
