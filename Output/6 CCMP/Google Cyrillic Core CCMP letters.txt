@@ -1,0 +1,3 @@
+CCMP made letters to test for GF Cyrillic core
+
+А̄ Е̄ О̄ Ы̄ Э̄ а̄ е̄ о̄ ы̄ э̄ Ә̄ ә̄
