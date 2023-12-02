@@ -1,3 +1,5 @@
-CCMP made letters to test for Google Fonts Africa Pri
-
 M̀ m̀ Ẹ̀ Ẹ́ ẹ̀ ẹ́ Ọ̀ Ọ́ ọ̀ ọ́
+
+These letters are not in unicode. Instead they must be made my the software renderer on the fly using ccmp code
+
+This set of letters is for Google Fonts Africa Pri

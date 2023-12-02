@@ -1,3 +1,5 @@
-CCMP made letters to test for GF Cyrillic beyond
-
 А́ а́ А̀ а̀ Е́ е́ Ё́ ё́ Є́ є́ З́ з́ И́ и́ І́ і́ Ї́ ї́ О́ о́ О̀ о̀ С́ с́ У́ у́ У̀ у̀ Ӱ́ ӱ́ Ъ̀ ъ̀ Ы́ ы́ Э́ э́ Ю́ ю́ Ю̀ ю̀ Я́ я́ Я̀ я̀ А̂ а̂ А̊ а̊ Ӓ̄ ӓ̄ А̃ а̃ А̄ а̄ Ә́ ә́ Ә̃ ә̃ В̌ в̌ Г̌ г̌ Г̇ г̇ Г̣ г̣ Ғ̌ ғ̌ Д̌ д̌ Д̆ д̆ Д̇ д̇ Д̣ д̣ Ё̄ ё̄ Е̃ е̃ Е̄ е̄ Є̈ є̈ Ж̇ ж̇ Ж̣ ж̣ З̌ з̌ З̣ з̣ З̱ з̱ Ԑ̈ ԑ̈ И̂ и̂ И̃ и̃ К̇ к̇ К̣ к̣ Л̣ л̣ Н̇ н̇ Н̣ н̣ О̆ о̆ О̂ о̂ О̃ о̃ О̄ о̄ Ө̆ ө̆ Ө̄ ө̄ Р̌ р̌ Р̇ р̇ Р̣ р̣ С̣ с̣ С̱ с̱ Т̌ т̌ Т̇ т̇ Т̣ т̣ У̂ У̃ у̃ Х̑ х̑ Х̣ х̣ Х̮ х̮ Х̱ х̱ Ш̇ ш̇ Ш̣ ш̣ Ы̆ ы̆ Ы̄ ы̄ Э̆ э̆ Э̂ э̂ Ӭ́ ӭ́ Э̇ э̇ Э̄ э̄ Ю̆ ю̆ Ю̈ ю̈ Ю̄ ю̄ Я̆ я̆ Я̈ я̈ Я̄ я̄
+
+These letters are not in unicode. Instead they must be made my the software renderer on the fly using ccmp code
+
+This set of letters is for Google Fonts Cyrillic beyond
