@@ -6,7 +6,7 @@ Lowercase Letters:
 a n o e i k m t d f r w g u j x l b ñ y s p ƴ ɓ ƭ c ɗ q
 
 Capital Letters:
-N O K A P I
+N O K A P I Ƥ
 
 Word count: 687
 Character count: 3127
