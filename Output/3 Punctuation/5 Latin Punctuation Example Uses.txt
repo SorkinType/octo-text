@@ -22,10 +22,12 @@ Quotes and punctuation mixed
 ‹I feel› ‹ah› ‹no.› ‹no?› ‹if› ‹cake!› ‹¿jeff?› ‹¡si!› ‹i›ll›
 
 Spelling
+
 p-h-y-l-i-s
 C-O-L-O-R-A-D-O
 
 Ranges
+
 (Jack Stag 1950-)
 6:13-21
 Section 12(a)–(d)
@@ -35,16 +37,19 @@ Journal of Education 3:342–568.
 Monday–Friday
 
 Connectors
+
 Semi-precious
 Clackton-on-Sea–London
 Berlin–London
 Cr-Ni-Mo
 
 deleted or missing words or letters
+
 Oakland’s - - bonic plague
 Richard Emory H - - - 
 
 Speech
+
 The cat—the calico—but had now returned.   
 He came — that day — but no.
 ‘You sad —!’ 
@@ -55,29 +60,37 @@ He said—and no one contradicted him—“The battle is lost.”
 These are shore deposits—gravel, sand, and clay—but marine sediments underlie them.
 
 Credit & Legend
+
 —Robert Burns.
 Figure 1.—Schematic drawing.
 
 Mixed lettera nd number names
+
 I–95 highway
 6–A (exhibit identification)
 
 ratio
+
 1:2::3:6
 
 Multiplication
+
 a•b 2•6 vs a b 
 
 imprint
+
 Washington : 2016
 
 place
+
 Washington: U.S. Government
 
 time
-2:40 p.m.
+
+2:40 p.m. 18:00
 
 Salutation
+
 My Dear Sir:
 
 Citation
@@ -85,10 +98,12 @@ Citation
 I Corinthians 13:13. 
 
 Doubt
+
 He said the boy was 8(?) feet tall.
 It was a “gentlemen’s agreement.” 
 
 Title
+
 “Compensation,” by Emerson (essay)
 
 Comma use with periods and quotes
@@ -110,6 +125,16 @@ The individual cavities show great variation. (See pl. 4.)
 
 [handing witness a list]?
 
+(473ml) [81 dB @ 80 km/h] (speed). 
+
+Go 72* (to) the station #45. Apt. 305
+
+For example, "{Gel} A voltage of 50 V to 160 V" rather than "a voltage of 50–160 V".  
+sam@jerry.org
+
+Type 1900–2000 (London, 1967) p. 45. 
+
+Society [Gesellschaft] and 
 
 Sometimes difficult combinations with punctuation
 
@@ -149,10 +174,49 @@ he’d he’ll he’s we’re we’ve who’d who’ll who’re who’s who’ve
 
 he'd he'll he's we're we've who'd who'll who're who's who've you'd you'll you're you've aren't it's what'll what're what've they'd they'll they're they've I'd I'll I'm I've 
 
+60’s  
+
+60's
+
+Righthere©  Nonsense® Everything™
+
 Possessives
 
 day’s labor 
 a stone’s throw 
 Masters, Mates & Pilots’ Association
 International Ladies’ Garment  Workers’ Union
+
+groupings
+
+he/she/they   and/or   km/sec   200 /week
+
+dates
+
+11/16/20
+
+Nov 22, 1645   10.23.77   12/10/88   10-6-01
+
+071 223 37 66    1(617) 524-2158
+
+₡ ₣ ₤ ₦ ₧ ₩ ₪ ₫ ₭ ₮ ₱ ₲ ₴ ₵ ₸ ₹ ₺ ₼ ₽ ₿
+
+© ® ℗ § ¦ |←↑→↓↔↕↖↗↘↙
+
+⁒ † ‡ √  ∫ ∞ ∶ ≈ = + ≠ ± < > ≤ ≥ ◊ ⟨ ⟩ ◼ ¬
+
+* p < .05
+** p < .045
+*** p < .015
+ 
+77°   45%   56‰ 
+  
+12 Crescent Lane #5, 
+Boston MA 02115
+
+7 Garden Walk, 
+Cambridge CB4 3EW UK
+
+OP
+1812†   1824‡    45§23    ¶67   ·3,567    •1,678  
 
