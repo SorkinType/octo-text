@@ -1,4 +1,3 @@
-
 Uses
 
 Quotes and punctuation mixed
@@ -69,6 +68,18 @@ Mixed lettera nd number names
 I–95 highway
 6–A (exhibit identification)
 
+kinds of dashes in use
+
+¶ The majority1 (European languages) — including English2 in
+the UK — treats dashes similarly. In a sentence, the standard
+form is an en-dash3 with one space on either side4.
+Nevertheless, there are exceptions, notably in Spanish: they
+prefer em-dashes5 and treat them —although6 it may look
+weird— as brackets that touch the words inside, (...) in some
+languages the en-dash7 and em-dash are considered
+replaceable. The US way—long8 em-dashes without spaces—
+is also common in Australia and Canada9.
+
 ratio
 
 1:2::3:6
@@ -136,6 +147,10 @@ Type 1900–2000 (London, 1967) p. 45.
 
 Society [Gesellschaft] and 
 
+The b330 (previously known (16-25) as the nautilus space complex module and ba 377) was an inflatable 174 space habitat being privately developed by bigelow aerospace from 2515 until 2024. The design was evolved from nasa'stranshab habitat concept. B330 will have 328 cubic meters (12,859 cu ft) of internal volume, hence its numeric designation. Whales are a widely distributed and diverse group of fully aquatic placental marine mammals. 95-26 making up as much as 40% of their total body mass. total body mass.
+
+THE B330 (PREVIOUSLY KNOWN (16-25) AS THE NAUTILUS SPACE COMPLEX MODULE AND BA 377) WAS AN INFLATABLE 174 SPACE HABITAT BEING PRIVATELY DEVELOPED BY BIGELOW AEROSPACE FROM 2515 UNTIL 2024. THE DESIGN WASEVOLVED FROM NASA'STRANSHAB HABITAT CONCEPT. B330 WILL HAVE 328 CUBIC METERS (12,859 CU FT) OF INTERNAL VOLUME, HENCE ITS NUMERIC DESIGNATION. WHALES ARE A WIDELY DISTRIBUTED AND DIVERSE GROUP OF FULLY AQUATIC PLACENTAL MARINE MAMMALS. 95-26 MAKING UP AS MUCH AS 40% OF THEIR TOTAL BODY MASS.
+
 Sometimes difficult combinations with punctuation
 
 f? f! (f) {f} [f] f' f" f’ f” (Q) {Q} [Q] (Q) {Q} [Q] 
@@ -198,6 +213,27 @@ dates
 Nov 22, 1645   10.23.77   12/10/88   10-6-01
 
 071 223 37 66    1(617) 524-2158
+
+(...) (CHILL) {CHILL} [OOO] (128) {128} [128]
+
+· point • point – point → point
+· text • text – text → text
+· note • note – note → note
+
+1). point 1). POINT a). point A). POINT
+2). text 2). TEXT b). text B). TEXT
+3). note 3). NOTE c). note C). NOTE
+
+
+· POINT • POINT – POINT → POINT
+· TEXT • TEXT – TEXT → TEXT
+· NOTE • NOTE – NOTE → NOTE
+
+1). POINT 1). POINT A). POINT A). POINT
+2). TEXT 2). TEXT B). TEXT B). TEXT
+3). NOTE 3). NOTE C). NOTE C). NOTE
+
+
 
 ₡ ₣ ₤ ₦ ₧ ₩ ₪ ₫ ₭ ₮ ₱ ₲ ₴ ₵ ₸ ₹ ₺ ₼ ₽ ₿
 
